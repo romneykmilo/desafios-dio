@@ -1,0 +1,15 @@
+1. criar o repositório do git
+2. copiar o link fazendo o clone do endereço do repositório
+3. abrir/criar a pasta e dar um "git bash here"
+4. ao acessar o git bash e dar o comando (git clone + o link)
+5. verificar na pasta que já existe a pasta .git(oculta) e o documento README
+6. depois dar o comando (cd + nome da pasta)
+7. git status = verifica se já esta ok
+8. a partir dai podem ser criada pastas e documentos para posteriormente subir no github
+9. para verificar se o git identificou as alterações (git status)
+10. para subir as atualizações: git add. (ou git add -a)
+11. vc vai verificar que ele identificou a mudança.
+12. dar o comando (git commit -m "comentário do que se trata a alteração")
+13. vai criar um commit, para dar um push para ir para a nuvem
+14. dar o comando (git push origin main) envia todos os comandos com commit para a nuvem
+15. pronto! verificar se a pasta subiu par ao github =)
